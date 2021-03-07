@@ -1,6 +1,6 @@
-# tarefa_mvc
+# Tarefa_MVC
 
-Esse site foi desenvolvido como tarefa sobre MVC
+Esse site foi desenvolvido como tarefa sobre MVC solicitada pelo professor Átila da escola SENAI Suiço Brasileira.
 É utilizada para listagem e informações sobre filmes, como: preço, gênero e data de lançamento.
 
 ![image](https://user-images.githubusercontent.com/71887999/110254376-afa63400-7f6d-11eb-9bd0-a0d985d14938.png)

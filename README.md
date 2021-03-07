@@ -9,9 +9,9 @@ A página principal do site tem 3 botões:
 
 ![image](https://user-images.githubusercontent.com/71887999/110254419-d6646a80-7f6d-11eb-97c8-ec13d1913399.png)
 
-# Home: Leva para a página inicial;
-# Privacy: Leva para a definição de privacidade do site;
-# Filmes App: Leva para a página de filmes.
+## Home: Leva para a página inicial;
+## Privacy: Leva para a definição de privacidade do site;
+## Filmes App: Leva para a página de filmes.
 
 ![image](https://user-images.githubusercontent.com/71887999/110254552-6e625400-7f6e-11eb-9e4c-f6be99012be0.png)
 
